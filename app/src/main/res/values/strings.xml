@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="my_name">Sieh Ching Yong</string>
+    <string name="my_profile_pic">Profile Pic</string>
+    <string name="my_profile_desc">
+        \nEducation:
+        \n\tSJKC Kasap
+        \n
+        \n\tSMJK Seg Hwa
+        \n
+        \n\tTAR UC
+        \n
+        \nI got three pets which are 2 dogs and a pig.
+        \nFirst pet:Kar Dog
+        \nSecond pet:Kai Dog
+        \nThird pet:Peppa Lee
+        \nAll my pets like to play together and take bath together.
+        \nI feed them everyday, doggy will bark and piggy will oink
+        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPiggy and Doggy
+
+
+    </string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
